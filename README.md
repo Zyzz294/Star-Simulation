@@ -1,2 +1,2 @@
 # Star-Simulation
-<img src="Desktop/eses.png">
+<img src="https://github.com/Zyzz294/Star-Simulation/issues">
